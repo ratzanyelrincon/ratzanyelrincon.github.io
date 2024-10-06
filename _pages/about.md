@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. Candidate in Economics at the University of British Columbia (UBC), with research interests in Labour Economics and Applied Econometrics. In particular, I study how labour regulations and public policy affect inequality in the labour market.
+I am a Ph.D. Candidate in Economics at the University of British Columbia (UBC) and Ph.D. Fellow at the [Stone Centre on Wealth and Income Inequality at VSE](https://stonecentre.economics.ubc.ca), with research interests in Labour Economics and Applied Econometrics. In particular, my work focuses on studying how labour regulations and public policy affect inequality in the labour market.
 
 Before joining the Ph.D. program at UBC, I worked as an economist at Banco de México. I hold a B.S. in Physics and Mathematics from Instituto Politécnico Nacional and an M.A. in Economics from El Colegio de México.
