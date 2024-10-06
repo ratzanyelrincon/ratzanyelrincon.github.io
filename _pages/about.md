@@ -13,9 +13,9 @@ profile:
     <p> Vancouver, BC V6T 1L4 </p>
     <p>rrinconv@student.ubc.ca</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. Candidate in Economics at the University of British Columbia (UBC), with research interests in Labour Economics and Applied Econometrics. In particular, I study how labour regulations and public policy affect inequality in the labour market.
