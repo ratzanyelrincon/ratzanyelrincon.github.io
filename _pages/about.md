@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://stonecentre.economics.ubc.ca'>Stone Ph.D. Fellow</a>. 6000 Iona Drive Vancouver, B.C., Canada, V6T 1L4.
 
 profile:
   align: left
   image: ratza_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> 6000 Iona Dr </p>
-    <p> Vancouver, BC V6T 1L4 </p>
-    <p>rrinconv@student.ubc.ca</p>
+    <p> Iconos </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
