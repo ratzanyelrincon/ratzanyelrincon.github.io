@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: Home
+title: Home
 permalink: /
-subtitle: /
+subtitle: 
 
 profile:
   align: right
