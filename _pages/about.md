@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. Candidate in Economics at the [University of British Columbia (UBC)](https://economics.ubc.ca) and a Ph.D. Fellow at the [Stone Centre on Wealth and Income Inequality at VSE](https://stonecentre.economics.ubc.ca). I have research interests in Labour Economics and Applied Econometrics. My work studies how labour regulations and public policy affect inequality in the labour market.
