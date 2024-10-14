@@ -8,12 +8,10 @@ profile:
   align: right
   image: ratza_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info:   
-  <div class="social-icons">
+  more_info:
                       <a class="social-icon" href="https://x.com/RatzanyelRincon" target="_blank"><i class="fab fa-twitter"></i></a>
                       <a class="social-icon" href="https://scholar.google.ca/citations?user=GUblEwcAAAAJ&hl=en&oi=ao" target="_blank"><i class="fab fa-google"></i></a>
                       <a class="social-icon" href="https://www.linkedin.com/in/ratzanyel-rincón-83b75a183/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                  </div>
                   
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
