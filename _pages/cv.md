@@ -1,7 +1,7 @@
 ---
 title: CV
 permalink: /cv/
-layout: archive
+layout: page
 nav: true
 nav_order: 3
 ---
