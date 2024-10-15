@@ -2,9 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Research
+description: Coming soon...
 nav: true
 nav_order: 2
 ---
-
-Research coming soon.
