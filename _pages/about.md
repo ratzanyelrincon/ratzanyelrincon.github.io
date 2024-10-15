@@ -9,12 +9,14 @@ profile:
   image: ratza_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+  <div style="text-align: center;">
     <p>6000 Iona Drive</p>
-    <p>Vancouver, BC, Canada V6T 1L4</p>
+    <p>Vancouver, BC V6T1L4</p>
     <p><a class="social-icon" href="mailto:rrinconv@student.ubc.ca" target="_blank"><i class="fas fa-envelope"></i></a>
     <a class="social-icon" href="https://x.com/RatzanyelRincon" target="_blank"><i class="fab fa-twitter"></i></a>
     <a class="social-icon" href="https://www.linkedin.com/in/ratzanyel-rincón-83b75a183/" target="_blank"><i class="fab fa-linkedin"></i></a>
     </p>
+  </div>
     
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
