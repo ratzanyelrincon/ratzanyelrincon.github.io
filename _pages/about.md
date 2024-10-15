@@ -8,7 +8,8 @@ profile:
   align: right
   image: ratza_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info:<a class="social-icon" href="https://x.com/RatzanyelRincon" target="_blank"><i class="fab fa-twitter"></i></a>
+  more_info:
+  <a class="social-icon" href="https://x.com/RatzanyelRincon" target="_blank"><i class="fab fa-twitter"></i></a>
   <a class="social-icon" href="https://www.linkedin.com/in/ratzanyel-rincón-83b75a183/" target="_blank"><i class="fab fa-linkedin"></i></a>
                   
 news: false # includes a list of news items
