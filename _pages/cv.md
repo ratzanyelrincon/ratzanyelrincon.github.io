@@ -8,4 +8,6 @@ nav_order: 3
 
 <iframe src="https://ratzanyelrincon.github.io/assets/pdf/CV_Ratzanyel_Rincon.pdf" width="100%" height="800px">    </iframe>
 
+<p> </p>
+
 You can also download my CV [here](https://ratzanyelrincon.github.io/assets/pdf/CV_Ratzanyel_Rincon.pdf).
