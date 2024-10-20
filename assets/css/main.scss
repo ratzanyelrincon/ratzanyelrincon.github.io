@@ -24,5 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.navbar, a, p {color: #fff;}
-.navbar {background: #002145;}
+.navbar {
+  background: #002145;
+  color: #fff;
+}
