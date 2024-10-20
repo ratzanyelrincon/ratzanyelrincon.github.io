@@ -24,7 +24,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-body, a, p {color: #fff;}
-body, .site-header {
-    background: #B0E0E6; /* Powder blue */
+.site-header {
+    background: #002145; /* Dark navy blue background for the header bar */
 }
