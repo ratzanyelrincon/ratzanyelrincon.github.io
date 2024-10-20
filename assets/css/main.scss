@@ -26,4 +26,9 @@ $max-content-width: {{ site.max_width }};
 
 .site-header {
     background: #002145; /* Dark navy blue background for the header bar */
+    color: #fff; /* White text in the header bar */
+}
+
+.site-header a {
+    color: #fff; /* White text for links in the header bar */
 }
