@@ -24,11 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.site-header {
-    background: #002145; /* Dark navy blue background for the header bar */
-    color: #fff; /* White text in the header bar */
-}
-
-.site-header a {
-    color: #fff; /* White text for links in the header bar */
+.site-nav {
+    background-color: #002145; /* Dark navy blue for the navbar background */
+    color: #fff; /* White text for the navbar links */
 }
