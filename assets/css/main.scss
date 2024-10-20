@@ -25,4 +25,6 @@ $max-content-width: {{ site.max_width }};
 ;
 
 body, a, p {color: #fff;}
-body, .site-header {background: #ADD8E6;}
+body, .site-header {
+    background: #B0E0E6; /* Powder blue */
+}
