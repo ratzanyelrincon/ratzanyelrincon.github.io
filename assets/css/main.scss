@@ -24,7 +24,5 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.site-nav {
-    background-color: #002145; /* Dark navy blue for the navbar background */
-    color: #fff; /* White text for the navbar links */
-}
+.site-nav, a, p {color: #fff;}
+.site-nav {background: #002145;}
