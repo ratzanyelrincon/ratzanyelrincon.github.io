@@ -24,6 +24,10 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+a, p {color: #fff;}
+
 .navbar {
-  background: rgba(12, 35, 68, 0.9);
+  background: rgba(0, 33, 69, 0.9); /* 30% transparency */
 }
+
+
