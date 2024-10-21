@@ -255,7 +255,7 @@ ul.task-list input[type="checkbox"] {
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: #fff; /* Change dropdown items to white */
+    color: #fff;
   }
 
   a:hover {
@@ -268,7 +268,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .dropdown-item {
-  color: #fff; /* Change dropdown items to white */
+  color: #fff;
 
   &:hover {
     color: var(--global-hover-color);
@@ -284,11 +284,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: #fff; /* Change brand text to white */
+    color: var(--global-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: #fff; /* Change nav links to white */
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-hover-color);
@@ -312,7 +312,7 @@ ul.task-list input[type="checkbox"] {
 
     a {
       i::before {
-        color: #fff; /* Change social icons to white */
+        color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -330,7 +330,7 @@ ul.task-list input[type="checkbox"] {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: #fff; /* Change the icon bars to white */
+    background-color: var(--global-text-color);
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -351,12 +351,26 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.navbar-toggler.collapsed {
+  .top-bar {
+    transform: rotate(0);
+  }
+
+  .middle-bar {
+    opacity: 1;
+  }
+
+  .bottom-bar {
+    transform: rotate(0);
+  }
+}
+
 #light-toggle,
 #search-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: #fff; /* Change the light/search toggle icons to white */
+  color: var(--global-text-color);
 
   &:hover {
     color: var(--global-hover-color);
