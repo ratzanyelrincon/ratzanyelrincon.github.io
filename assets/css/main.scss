@@ -28,8 +28,8 @@ $max-content-width: {{ site.max_width }};
   background: rgba(0, 33, 69, 0.9); /* 10% transparency */
 }
 
-.site-header {
-    color: #fff; /* White text in the header bar */
+.site-nav a {
+    color: #fff; /* Text color for the links */
+    text-decoration: none; /* Remove underline from links */
 }
-
 
