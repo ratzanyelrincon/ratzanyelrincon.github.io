@@ -25,10 +25,8 @@ $max-content-width: {{ site.max_width }};
 ;
 
 .navbar {
-  background: rgba(0, 33, 69, 0.9); /* 10% transparency */
+  background: rgba(0, 33, 69, 0.95); /* 5% transparency */
 }
 
-.navbar a {
-  color: #fff; /* White color for links in the navbar */
-}
+
 
