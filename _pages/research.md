@@ -18,7 +18,9 @@ function toggleAbstract(id) {
 }
 </script>
 
-## Working Papers\
+## Working Papers
+
+<br>
 
 **Working Income Tax Benefits, Minimum Wage, and Employment Transitions of Low-Skilled Workers: Evidence From Canada**  
 [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/WITB&MW_Ratzanyel_Rincon.pdf)
@@ -29,7 +31,9 @@ This paper examines how the Workers Income Tax Benefit (WITB) —now called Cana
 <br><br>
 
 
-## Works in Progress\
+## Works in Progress
+
+<br>
 
 **The Effects of Union Democratization: Evidence from Mexico**  
 <span style="font-size: smaller; font-style: italic;">with Angel Espinoza and Leon Fernandez Bujanda</span>
@@ -43,7 +47,9 @@ This paper examines how the Workers Income Tax Benefit (WITB) —now called Cana
 <br><br>
 
 
-## Publications\
+## Publications
+
+<br>
 
 **Quarterly multidimensional poverty in Mexico using machine learning algorithms**  
 <span style="font-size: smaller;">Estudios Económicos, Vol. 38, No. 1, January, 2023, pp. 3-68.</span>  
