@@ -46,7 +46,7 @@ This paper examines how the Workers Income Tax Benefit (WITB) —now called Cana
 
 ## Publications  
 
-**Quarterly multidimensional poverty in Mexico using machine learning algorithms**  
+**Quarterly Multidimensional Poverty in Mexico Using Machine Learning Algorithms**  
 <span style="font-size: smaller;">Estudios Económicos, Vol. 38, No. 1, January, 2023, pp. 3-68.</span>  
 [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/QuarterlyMultidimensionalPoverty_Ratzanyel_Rincon.pdf)
 
