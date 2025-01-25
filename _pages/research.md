@@ -30,7 +30,7 @@ This paper examines how the Workers Income Tax Benefit (WITB) —now called Cana
 <br>
 
 
-## Works in Progress  
+## Work in Progress  
 
 **The Effects of Suppressing Company Unions: Evidence from Mexico**  
 <span style="font-size: smaller; font-style: italic;">with Ángel Espinoza and León Fernández Bujanda</span>
