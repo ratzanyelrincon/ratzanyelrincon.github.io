@@ -40,17 +40,17 @@ This paper examines methods of causal inference based on groupwise matching when
 ## Work in Progress  
 
 The Effects of Suppressing Bogus Unions: Evidence from Mexico
-<span style="font-size: smaller; font-style: italic;">with Ángel Espinoza and León Fernández Bujanda</span>
+<span style="font-size: smaller; font-style: italic;">(with Ángel Espinoza and León Fernández Bujanda)</span>
 
 Are Immigrants Particularly Entrepreneurial? Policy Lessons from a Selective Immigration System
-<span style="font-size: smaller; font-style: italic;">with David A. Green, Huju Liu, Yuri Ostrovsky, and Garnett Picot</span>
+<span style="font-size: smaller; font-style: italic;">(with David A. Green, Huju Liu, Yuri Ostrovsky, and Garnett Picot)</span>
 
 <br>
 
 
 ## Publications  
 
-Quarterly Multidimensional Poverty in Mexico Using Machine Learning Algorithms
+Quarterly Multidimensional Poverty in Mexico Using Machine Learning Algorithms <br>
 <span style="font-size: smaller;">Estudios Económicos, Vol. 38, No. 1, January, 2023, pp. 3-68.</span>  
 [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/QuarterlyMultidimensionalPoverty_Ratzanyel_Rincon.pdf)
 
