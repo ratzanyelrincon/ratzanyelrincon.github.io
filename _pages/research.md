@@ -30,6 +30,7 @@ The Effects of Suppressing Paper Unions: Evidence from Mexico
 
 Are Immigrants Particularly Entrepreneurial? Firm Ownership as a Key Element in Immigrant Income Assimilation
 <span style="font-size: smaller; font-style: italic;">(with David A. Green, Huju Liu, Yuri Ostrovsky, and Garnett Picot)</span><br>
+<span style="font-size: smaller;">Accepted at the Journal of Labor Economics</span><br>
 [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/Are_Immigrants_Particularly_Entrepreneurial.pdf)
 
 <span id="abstract1" style="display: none;">
@@ -56,7 +57,7 @@ This paper examines how the Workers Income Tax Benefit (WITB) —now called Cana
 ## Work in Progress  
 
 Inside the Collective Agreement: Text, Linked Microdata, and the Economics of Union Bargaining
-<span style="font-size: smaller; font-style: italic;">(with Pierre-Loup Beauregard)</span>
+<span style="font-size: smaller; font-style: italic;">(with Pierre-Loup Beauregard and João Galindo da Fonseca)</span>
 
 <br>
 
