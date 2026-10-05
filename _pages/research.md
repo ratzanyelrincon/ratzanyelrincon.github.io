@@ -21,7 +21,7 @@ function toggleAbstract(id) {
 ## **Job Market Paper**
 
 - **The Effects of Suppressing Paper Unions: Evidence from Mexico**<br>
-  *With Ángel Espinoza and León Fernández Bujanda*
+  <span style="font-size: smaller;">With Ángel Espinoza and León Fernández Bujanda</span>
 
 <br>
 
@@ -29,15 +29,15 @@ function toggleAbstract(id) {
 ## **Working Papers**
 
 - **Are Immigrants Particularly Entrepreneurial? Firm Ownership as a Key Element in Immigrant Income Assimilation**<br>
-  *With David A. Green, Huju Liu, Yuri Ostrovsky, and Garnett Picot*<br>
-  <span style="font-size: smaller;">Accepted at the Journal of Labor Economics</span><br>
+  <span style="font-size: smaller;">With David A. Green, Huju Liu, Yuri Ostrovsky, and Garnett Picot</span><br>
+  <span style="font-size: smaller; font-style: italic;">Accepted at the Journal of Labor Economics</span><br>
   [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/Are_Immigrants_Particularly_Entrepreneurial.pdf)
   <span id="abstract1" style="display: none;">
   Firm ownership is a defining feature of immigrant adaptation: 46% of immigrants own a firm at some point in their first 15 years post-arrival. We use Canadian data linking immigrant arrival records with individual and firm tax data to examine the process of entering firm ownership for immigrants. Higher immigrant firm ownership rates are mainly due to nonincorporated firm ownership, which looks like a last resort. Human capital plays no role in the opening of preferable, incorporated firms. Immigrants are not more entrepreneurial in terms of opening incorporated firms with employees, and standard policy levers appear to have limited effects.
   </span>
 
 - **Causal Inference with Groupwise Matching**<br>
-  *With Kevin Song*<br>
+  <span style="font-size: smaller;">With Kevin Song</span><br>
   [Abstract](#) | [Paper](https://ratzanyelrincon.github.io/assets/pdf/Causal_Inference_Groupwise_Matching.pdf) | [SCD package in R](https://github.com/ratzanyelrincon/scd)
   <span id="abstract2" style="display: none;">
   This paper examines methods of causal inference based on groupwise matching when we observe multiple large groups of individuals over several periods. We formulate causal inference validity through a generalized matching condition, generalizing the parallel trend assumption in difference-in-differences designs. We show that difference-in-differences, synthetic control, and synthetic difference-in-differences designs are distinguished by the specific matching conditions that they invoke. Through regret analysis, we demonstrate that difference-in-differences and synthetic control with differencing are complementary; the former dominates the latter if and only if the latter's extrapolation error exceeds the former's matching error up to a term vanishing at the parametric rate. The analysis also reveals that synthetic control with differencing is equivalent to difference-in-differences when the parallel trend assumption holds for both the pre-treatment and post-treatment periods. We develop a statistical inference procedure based on synthetic control with differencing and present an empirical application demonstrating its usefulness.
@@ -55,7 +55,7 @@ function toggleAbstract(id) {
 ## **Work in Progress**
 
 - **Inside the Collective Agreement: Text, Linked Microdata, and the Economics of Union Bargaining**<br>
-  *With Pierre-Loup Beauregard and João Galindo da Fonseca*
+  <span style="font-size: smaller;">With Pierre-Loup Beauregard and João Galindo da Fonseca</span>
 
 <br>
 
