@@ -20,7 +20,7 @@ function toggleAbstract(id) {
 
 ## **Job Market Paper**
 
-- **The Effects of Suppressing Paper Unions: Evidence from Mexico**<br>
+- **Suppressing Paper Unions: Evidence from the USMCA's Labour Provisions in Mexico**<br>
   <span style="font-size: smaller;">With Ángel Espinoza and León Fernández Bujanda</span>
 
 <br>
