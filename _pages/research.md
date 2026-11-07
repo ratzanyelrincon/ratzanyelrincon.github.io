@@ -8,6 +8,9 @@ nav_order: 2
 ---
 
 <style>
+article ul > li {
+  margin-bottom: 1.25rem;
+}
 .abstract-box {
   display: none;
   margin: 0.6rem 0 0.4rem 0;
@@ -15,9 +18,8 @@ nav_order: 2
   font-size: smaller;
   line-height: 1.55;
   text-align: justify;
-  background: rgba(38, 152, 186, 0.06);
+  background: transparent;
   border: 1px solid var(--global-divider-color, #e3e3e3);
-  border-left: 4px solid var(--global-theme-color, #2698ba);
   border-radius: 6px;
   opacity: 0;
   transform: translateY(-4px);
@@ -27,16 +29,6 @@ nav_order: 2
   display: block;
   opacity: 1;
   transform: translateY(0);
-}
-.abstract-box::before {
-  content: "Abstract";
-  display: block;
-  font-weight: 600;
-  font-size: 0.75rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--global-theme-color, #2698ba);
-  margin-bottom: 0.35rem;
 }
 </style>
 
