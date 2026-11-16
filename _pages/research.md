@@ -58,7 +58,6 @@ function toggleAbstract(id, link) {
 
 <br>
 
-
 ## **Working Papers**
 
 - **Are Immigrants Particularly Entrepreneurial? Firm Ownership as a Key Element in Immigrant Income Assimilation**<br>
@@ -84,14 +83,12 @@ function toggleAbstract(id, link) {
 
 <br>
 
-
 ## **Work in Progress**
 
 - **Inside the Collective Agreement: Text, Linked Microdata, and the Economics of Union Bargaining**<br>
   <span style="font-size: smaller;">With Pierre-Loup Beauregard and João Galindo da Fonseca</span>
 
 <br>
-
 
 ## **Publications**
 
